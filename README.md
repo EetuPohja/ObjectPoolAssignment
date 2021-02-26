@@ -1,2 +1,2 @@
 # ProjectCursedWoods
-An isometric action-adventure fantasy game
+By: Aleksandra Pere, Eetu Pohja, Jaakko Joenperä
